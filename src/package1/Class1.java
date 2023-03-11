@@ -5,7 +5,7 @@ public class Class1
 	public static void main(String[] args)
 	{
 		System.out.println("HELLO");
-		System.out.println("TAUSEEF");
+		System.out.println("HELLO - TAUSEEF");
 	}
 	
 
